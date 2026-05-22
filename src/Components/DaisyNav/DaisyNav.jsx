@@ -39,7 +39,7 @@ const DaisyNav = () => {
       <li><a>Item 3</a></li>
     </ul>
   </div>
-  <div class="
+  <div class=" 
   navbar-end">
     <a class="
     btn">Button</a>

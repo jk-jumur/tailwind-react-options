@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Basic",
+    "price": 5,
+    "description": "Perfect for beginners who want essential study tools and practice resources.",
+    "features": [
+      "Access to study materials",
+      "Practice quizzes",
+      "Progress tracking",
+      "Community support",
+      "Daily study reminders",
+      "Limited mock tests",
+      "Mobile access",
+      "Bookmark favorite lessons"
+    ]
+  },
+  {
+    "name": "Standard",
+    "price": 15,
+    "description": "Best for regular students who need advanced learning tools and live support.",
+    "features": [
+      "Everything in Basic",
+      "Live classes",
+      "Mock exams",
+      "Downloadable PDFs",
+      "AI study assistant",
+      "Performance reports",
+      "Unlimited practice tests",
+      "Offline downloads",
+      "Topic-wise analytics",
+      "Study planner"
+    ]
+  },
+  {
+    "name": "Premium",
+    "price": 30,
+    "description": "Designed for serious learners who want personalized mentoring and complete learning support.",
+    "features": [
+      "Everything in Standard",
+      "Personal mentor",
+      "Advanced analytics",
+      "Priority support",
+      "Exclusive premium courses",
+      "1-on-1 doubt sessions",
+      "Custom study roadmap",
+      "Early access to new courses",
+      "Certificate of completion",
+      "Ad-free experience",
+      "Weekly mentorship calls",
+      "Career guidance sessions"
+    ]
+  }
+]

@@ -16,6 +16,7 @@
   {
     "name": "Standard",
     "price": "$9.99",
+    "popular": true,
     "description": "Best for regular students who need advanced learning tools and live support.",
     "features": [
       "Everything in Basic",
